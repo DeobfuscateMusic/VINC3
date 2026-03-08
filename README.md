@@ -1,4 +1,4 @@
-# Vinc3 — Pro DSP Analysis 🔊📊
+# Vinc3 — Pro DSP Analysis
 
 > Audio Visual Analysis for Music Production.
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛰 Core Analysis Modules
+##  Core Analysis Modules
 
 ### 1. Spectrum_V (Frequency Precision)
 A surgical FFT analyzer using a pixel-exact inverse-logarithmic frequency sweep.
@@ -64,14 +64,14 @@ A spectral waveform.
 
 ---
 
-## ⚙️ Technical Specifications
+##  Technical Specifications
 
 *   **DSP Buffer**: 8192-point FFT with 64-bit internal precision.
 *   **Visual Engine**: Optimized HTML5 Canvas 2D with `requestAnimationFrame` for 120 FPS compatibility.
 *   **Latency**: Interactive-priority AudioContext with ultra-low buffer overhead.
 *   **Security**: 100% Offline. No data ever leaves your local machine.
 
-## 💻 System Compatibility
+##  System Compatibility
 
 Built and tested for the modern macOS ecosystem:
 *   **macOS Sonoma (14.x)**
@@ -80,7 +80,7 @@ Built and tested for the modern macOS ecosystem:
 
 ---
 
-## 🛠 Operation Manual
+##  Operation Manual
 
 1.  **Boot Sequence**: Click the circular **Power Node** in the top header to initialize the DSP engine.
 2.  **Telemetry Source**: Select **[MIC]** for direct input or **[SCR]** to capture system audio via Screen Capture.
@@ -91,7 +91,7 @@ Built and tested for the modern macOS ecosystem:
 
 ---
 
-## 🧪 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
+##  𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 
 - Sponsor / Benefactor : Vincent P.
 - Development / Creation : [Deobfuscate](https://github.com/de0bfusc4tor)
