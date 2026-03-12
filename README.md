@@ -44,11 +44,20 @@
 
 ---
 
-## 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐌𝐚𝐧𝐮𝐚𝐥
+## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
-1. **Boot Sequence**: Click the circular **Power Node** in the top header to initialize the DSP engine.
-2. **Telemetry Source**: Select **[MIC]** for direct input or **[SCR]** to capture system audio via Screen Capture.
-3. **Modular Workspace**:
+### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
+1. Download the latest `Vinc3.app.zip`
+2. Extract & Drag to your `Applications` folder.
+3. Open `Vinc3`.
+
+---
+
+## 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬
+
+- **Boot Sequence**: Click the circular **Power Node** in the top header to initialize the DSP engine.
+- **Telemetry Source**: Select **[MIC]** for direct input or **[SCR]** to capture system audio via Screen Capture.
+- **Modular Workspace**:
     - **Drag & Drop**: Click headers to reorganize windows.
     - **Tactile Scaling**: Use bottom-right handles to resize any analyzer.
     - **Layer Focus**: Click any module to bring it to the foreground.
