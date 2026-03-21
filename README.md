@@ -15,7 +15,7 @@
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
-###  𝟑𝐃 𝐒𝐩𝐞𝐜𝐭𝐫𝐨𝐠𝐫𝐚𝐦 𝐄𝐧𝐠𝐢𝐧𝐞
+###  𝐒𝐩𝐞𝐜𝐭𝐫𝐨𝐠𝐫𝐚𝐦
 Three-dimensional view of your audio's spectral energy.
 - **Three Modes**: **Sphere** (radial energy core), **Wave** (terrain landscape), and **Cube** (geometric structure).
 - **Dynamic Physics**: Features a 50% increased spike multiplier for highly responsive, energetic animations that react to overall loudness.
@@ -62,15 +62,15 @@ A scrolling logarithmic history of frequency energy flowing from **Left to Right
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest `VINC3.app.zip`.
+1. Download the latest [`VINC3.app.zip`](https://github.com/de0bfusc4tor/Vinc3/releases/download/VINC3-0.9.9/VINC3.app.zip)
 2. Extract & Drag to your `Applications` folder.
-3. **Note**: Follow the macOS Permissions tutorial below for first-time setup.
+- _Note : Follow the macOS Permissions tutorial below for first-time setup._
 
 ---
 
 ## 𝐦𝐚𝐜𝐎𝐒 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬
 
-To function as a standalone analyzer. `VINC3` requires specific system access. Make sure to fill these requirements before starting using :
+To function as a standalone analyzer. `VINC3` requires specific system access. Make sure to fill all these requirements before starting using :
 
 ### 𝟏. 𝐌𝐢𝐜𝐫𝐨𝐩𝐡𝐨𝐧𝐞 𝐀𝐜𝐜𝐞𝐬𝐬
 Required to analyze audio from your interface or built-in mic.
