@@ -44,16 +44,18 @@
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
 - **Architecture**: Intel & Apple Silicon (Universal).
+- **DAWs**: Ableton 11+, Ableton 12+, Logic Pro & Reason.
 - **Permissions**: Requires Microphone (for hardware input) and Screen Recording (for system audio loopback).
 
 ---
 
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
-### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
 1. Download the latest [`VINC3.app.zip`](https://github.com/de0bfusc4tor/Vinc3/releases/download/VINC3-0.9.9/VINC3.app.zip)
-2. Extract & Drag to your `Applications` folder.
-- _Note : Follow the macOS Permissions tutorial below for first-time setup._
+2. Extract & Drag `VINC3` to your `Applications` folder.
+- _Note : Follow the macOS Permissions tutorial below for first-time setup, before use._
+3. Select your audio source `MIC` or `SYSTEM`
+4. Click on `INITIALIZE`. It will start the engine.
 
 ---
 
