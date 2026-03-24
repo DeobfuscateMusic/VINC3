@@ -51,7 +51,7 @@
 
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
-1. Download the latest [`VINC3.app.zip`](https://github.com/de0bfusc4tor/Vinc3/releases/download/VINC3-0.9.9/VINC3.app.zip)
+1. Download the latest [`VINC3.app.zip`](https://github.com/DeobfuscateMusic/VINC3/releases/download/VINC3-0.9.9/VINC3.app.zip)
 2. Extract & Drag `VINC3` to your `Applications` folder.
 - _Note : Follow the macOS Permissions tutorial below for first-time setup, before use._
 3. Select your audio source `MIC` or `SYSTEM`
