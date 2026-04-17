@@ -1,8 +1,8 @@
-# 𝐕𝐈𝐍𝐂𝟑 - 𝐃𝐒𝐏 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐚𝐥𝐲𝐳𝐞𝐫
+# 𝐕𝐈𝐍𝐂𝟑
 
-> _3D Spectral Analysis & DSP Metering Suite. Frequency visualization and precision audio monitoring in a minimalist interface._
+> _3D Spectral Analysis & DSP Metering Suite. Frequency visualization and precision audio monitoring._
 
-![Version](https://img.shields.io/badge/Version-0.9.9-green?style=flat-square)
+![Version](https://img.shields.io/badge/Version-0.9.9-brightgreen?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square)
@@ -93,10 +93,10 @@ Required for **System Audio Loopback** (capturing audio from other softwares).
 
 ---
 
-_VINC3 was released 20.03.2026, technically making it the first ever working Audio Analyzer on macOS Tahoe. This software is free. Don't forget to give it a ⭐ on Github if you liked the project._
+_This software is free. Don't forget to give it a ⭐ on Github if you liked the project._
 
 ---
 
-<p align="center"><img width="227" height="198" alt="Logo Samurai Horse Round Small" src="https://github.com/user-attachments/assets/df9fbfee-61c7-4456-9d52-de71a2e504cf" /></p>
+<p align="center"><img width="91" height="78" alt="Logo_Deobfuscate_RoundXS" src="https://github.com/user-attachments/assets/9d6368ac-8089-4c9f-88c7-6ca648a56c7d" /></p>
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
