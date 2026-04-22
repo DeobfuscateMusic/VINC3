@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/7ab03f56-2037-4e66-9a67-ac912e6d3599
 ---
 
 ## 𝐌𝐨𝐝𝐮𝐥𝐞𝐬
-- **Spectrogram**: Three-dimensional view of your audio's spectral energy. Three Modes available. **Sphere** (radial energy core), **Wave** (terrain landscape), and **Cube** (geometric structure).
+- **Spectrogram**: Three-dimensional view of your audio's spectral energy. Four Modes available. **Sphere** (radial energy core), **Wave** (terrain landscape), **Cube** (geometric structure) and **Terminal** (binary waterfall).
 
 - **FFT Meter**: HD Fast Fourier Transform analyzer for surgical frequency monitoring. Incorporated Peak Tracking with automatic peak detection and labeling of the most prominent frequencies. Logarithmic Scaling with detailed response from 20Hz to 20kHz with high-DPI grid rendering.
 
