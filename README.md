@@ -56,6 +56,8 @@ https://github.com/user-attachments/assets/7ab03f56-2037-4e66-9a67-ac912e6d3599
 3. Select your audio source `MIC` or `SYSTEM`
 4. Click on `INITIALIZE`. It will start the engine.
 
+- _Note : You can also download the package version_ [`VINC3.pkg`](https://github.com/DeobfuscateMusic/VINC3/releases/download/VINC3_1.0.0/VINC3.pkg)
+
 ---
 
 ## 𝐦𝐚𝐜𝐎𝐒 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬
