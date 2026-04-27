@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/7ab03f56-2037-4e66-9a67-ac912e6d3599
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
 - **Architecture**: Intel & Apple Silicon (Universal).
-- **DAWs**: Ableton 11+, Ableton 12+, Logic Pro & Reason.
+- **DAWs**: Ableton 11+, Ableton 12+, Logic Pro & Reason with [BlackHole](https://github.com/ExistentialAudio/BlackHole) driver.
 - **Permissions**: Requires Microphone (for hardware input) and Screen Recording (for system audio loopback).
 
 ---
