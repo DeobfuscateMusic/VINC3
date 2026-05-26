@@ -1,12 +1,12 @@
 <p align="center"><img width="355" height="139" alt="VINC3_Banner" src="https://github.com/user-attachments/assets/73fdd804-39a1-4f99-a755-65c8733fd34f" /></p>
 
- _<p align="center">Spectral Analysis & DSP Metering. Frequency Visualization & Precision Audio Monitoring._</p>
+ _<p align="center">Audio Analysis & DSP Metering. Frequency Visualization & Audio Monitoring._</p>
 
 ---
 
-![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.2-brightgreen?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Universal%20Intel%20%26%20Arm64-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square)</p>
 
 ---
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/7ab03f56-2037-4e66-9a67-ac912e6d3599
 ## 𝐒𝐲𝐬𝐭𝐞𝐦 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
-- **Architecture**: Intel & Apple Silicon (Universal).
+- **Architecture**: Intel, Arm64 & Universal.
 - **DAWs**: Ableton 11+, Ableton 12+, Logic Pro & Reason with [BlackHole](https://github.com/ExistentialAudio/BlackHole) driver.
 - **Permissions**: Requires Microphone (for hardware input) and Screen Recording (for system audio loopback).
 
@@ -100,6 +100,5 @@ _This software is free. Don't forget to give it a ⭐ on Github if you liked the
 
 ---
 
-<p align="center"><img width="91" height="78" alt="Logo_Deobfuscate_RoundXS" src="https://github.com/user-attachments/assets/9d6368ac-8089-4c9f-88c7-6ca648a56c7d" /></p>
-<p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
-<p align="center">2026</p>
+<p align="center"><code>𝒦𝑜𝓊𝓈𝑒𝒾</code></p>
+<p align="center">2026</code></p>
