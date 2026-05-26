@@ -6,7 +6,7 @@
 
 ![Version](https://img.shields.io/badge/Version-1.0.2-brightgreen?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Universal%20Intel%20%26%20Arm64-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Arm64%20%7C%20Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square)</p>
 
 ---
