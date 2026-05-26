@@ -1,6 +1,6 @@
-<p align="center"><img width="355" height="139" alt="VINC3_Banner" src="https://github.com/user-attachments/assets/73fdd804-39a1-4f99-a755-65c8733fd34f" /></p>
+<p align="center"><img width="190" height="193" alt="vinc3banner" src="https://github.com/user-attachments/assets/ba115c1a-ce26-4999-8672-56a88455eabb" /></p>
 
- _<p align="center">Audio Analysis & DSP Metering. Frequency Visualization & Audio Monitoring._</p>
+_<p align="center">Audio Analysis & DSP Metering. Frequency Visualization & Audio Monitoring._</p>
 
 ---
 
