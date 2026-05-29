@@ -4,7 +4,7 @@ _<p align="center">Audio Analysis & DSP Metering. Frequency Visualization & Audi
 
 ---
 
-![Version](https://img.shields.io/badge/Version-1.0.2-brightgreen?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.1.0-brightgreen?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Arm64%20%7C%20Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square)</p>
@@ -33,8 +33,10 @@ https://github.com/user-attachments/assets/7ab03f56-2037-4e66-9a67-ac912e6d3599
 | **Level Meters** | Industry-standard loudness compliance. | Real-time M/S/I LUFS, dBFS tracking & Crest Factor alerts. |
 | **Analog VU** | Classic hardware-inspired ballistics. | 300ms integration time & Hot Zone saturation indicators. |
 | **Oscilloscope** | Real-time linear waveform visualization. | Dual-channel (L/R) stereo image monitoring. |
-| **Stereo Monitor** | Phase and width analysis. | Zero-crossing trigger, Phase Correlation & Mid/Side balance. |
+| **Stereo Monitor** | Phase and width analysis. | Vector scope and real-time panning display. |
+| **Pitch & Stats** | Real-time audio statistics. | Pitch detection, Chroma wheel display & bit-depth estimation. |
 | **Linear Spec** | Scrolling frequency energy history. | Logarithmic timeline for detecting long-term resonances. |
+| **Phase Correlation**| Phase alignment analysis. | Real-time correlation tracking (+1 to -1) & mono compatibility check. |
 
 ---
 
@@ -82,11 +84,11 @@ Required for **System Audio Loopback** (capturing audio from other softwares).
 | **SYSTEM** | Set audio source to your System audio. |
 | **INITIALIZE** | Boot the engine using the selected audio source. |
 | **STOP** | Terminate the engine and all active processing. |
+| **SAVE** | Save current active modules, their sizes and positions as default layout. |
+| **LOAD** | Load previously saved template layout. |
 | **RESET** | Revert all modules to their default factory positions. |
 | **Software Scaling** | Select the window borders to resize or move the `VINC3` window. |
 | **Module Scaling** | Drag the bottom-right corner to resize; hold `Left Click` to move. |
-
-- _Note : To achieve the layout in the preview you will have to resize and move the modules windows. You can also create your own._
 
 ---
 
