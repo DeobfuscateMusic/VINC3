@@ -25,21 +25,6 @@ https://github.com/user-attachments/assets/7ab03f56-2037-4e66-9a67-ac912e6d3599
 
 ---
 
-## 𝐌𝐨𝐝𝐮𝐥𝐞𝐬
-| Module | Description | Features |
-| :--- | :--- | :--- |
-| **Spectrogram** | 3D spectral energy visualization. | **Sphere**, **Wave**, **Cube** & **Terminal** modes. |
-| **FFT Meter** | Surgical frequency monitoring via HD FFT. | Peak tracking, auto-labeling & Logarithmic scaling (20Hz-20kHz). |
-| **Level Meters** | Industry-standard loudness compliance. | Real-time M/S/I LUFS, dBFS tracking & Crest Factor alerts. |
-| **Analog VU** | Classic hardware-inspired ballistics. | 300ms integration time & Hot Zone saturation indicators. |
-| **Oscilloscope** | Real-time linear waveform visualization. | Dual-channel (L/R) stereo image monitoring. |
-| **Stereo Monitor** | Phase and width analysis. | Vector scope and real-time panning display. |
-| **Pitch & Stats** | Real-time audio statistics. | Pitch detection, Chroma wheel display & bit-depth estimation. |
-| **Linear Spec** | Scrolling frequency energy history. | Logarithmic timeline for detecting long-term resonances. |
-| **Phase Correlation**| Phase alignment analysis. | Real-time correlation tracking (+1 to -1) & mono compatibility check. |
-
----
-
 ## 𝐒𝐲𝐬𝐭𝐞𝐦 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
@@ -73,6 +58,21 @@ Required for **System Audio Loopback** (capturing audio from other softwares).
 - `System Settings` > `Privacy & Security` > `Screen Recording` > Add `VINC3`.
 
 - _Reminder: `VINC3` does not record a single pixel. It doesn't record audio. It doesn't record video. It doesn't require Internet. These permissions are macOS requirements for internal audio routing._
+
+---
+
+## 𝐌𝐨𝐝𝐮𝐥𝐞𝐬
+| Module | Description | Features |
+| :--- | :--- | :--- |
+| **Spectrogram** | 3D spectral energy visualization. | **Sphere**, **Wave**, **Cube** & **Terminal** modes. |
+| **FFT Meter** | Surgical frequency monitoring via HD FFT. | Peak tracking, auto-labeling & Logarithmic scaling (20Hz-20kHz). |
+| **Level Meters** | Industry-standard loudness compliance. | Real-time M/S/I LUFS, dBFS tracking & Crest Factor alerts. |
+| **Analog VU** | Classic hardware-inspired ballistics. | 300ms integration time & Hot Zone saturation indicators. |
+| **Oscilloscope** | Real-time linear waveform visualization. | Dual-channel (L/R) stereo image monitoring. |
+| **Stereo Monitor** | Phase and width analysis. | Vector scope and real-time panning display. |
+| **Pitch & Stats** | Real-time audio statistics. | Pitch detection, Chroma wheel display & bit-depth estimation. |
+| **Linear Spec** | Scrolling frequency energy history. | Logarithmic timeline for detecting long-term resonances. |
+| **Phase Correlation**| Phase alignment analysis. | Real-time correlation tracking (+1 to -1) & mono compatibility check. |
 
 ---
 
